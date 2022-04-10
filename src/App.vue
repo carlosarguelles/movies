@@ -1,7 +1,9 @@
+<!-- Router view -->
 <template>
   <router-view></router-view>
 </template>
 
+<!-- Global styles -->
 <style>
 * {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
@@ -13,6 +15,7 @@ body {
   color: white;
   max-width: 1000px;
   margin: auto;
+  padding: 0px 20px;
 }
 
 a {

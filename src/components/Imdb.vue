@@ -1,3 +1,4 @@
+<!-- IMDB svg logo -->
 <template>
   <svg viewBox="0 0 575 289.83">
     <defs>
