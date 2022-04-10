@@ -85,13 +85,13 @@ const filteredMovies = computed(() =>
   overflow: auto;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 490px) {
   #movies {
     grid-template-columns: repeat(1, 1fr);
   }
 }
 
-@media (min-width: 407px) {
+@media (min-width: 500px) {
   #movies {
     grid-template-columns: repeat(2, 1fr);
   }
